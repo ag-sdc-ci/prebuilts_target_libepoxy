@@ -1,0 +1,19 @@
+{
+	"provideLibs": [	
+		    "libdummy_binary_libepoxy.a-x86_64-v2.so",
+		    "libdummy_binary_libepoxy.a.so",
+		    "libdummy_ext_libepoxy-x86_64-v2.so",
+		    "libdummy_ext_libepoxy.so",
+		    "libdummy_headers_ext_libepoxy-x86_64-v2.so",
+		    "libdummy_headers_ext_libepoxy.so",
+		    "libdummy_pkgconfig_ext_libepoxy-x86_64-v2.so",
+		    "libdummy_pkgconfig_ext_libepoxy.so",
+		    "libepoxy-x86_64-v2.so",
+		    "libepoxy.so"
+	],
+	"requireLibs": [	
+		    "libc.so",
+		    "libdl.so"
+	],
+	"visible": true
+}
